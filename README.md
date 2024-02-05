@@ -20,8 +20,5 @@ npm start
 - Heroku url
 https://infinite-eyrie-03355-87bd628755b0.herokuapp.com/notes
 
-- Github url
-https://armond-guze.github.io/express-note-taker/
-
 - Github repo
 https://github.com/Armond-Guze/express-note-taker
