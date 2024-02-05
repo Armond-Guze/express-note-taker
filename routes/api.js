@@ -49,6 +49,7 @@ router.post("/notes", (req, res) => {
     });
 });
 
+// extra credit delete route
 router.delete("/notes/:id", (req, res) => {
   readFileAsync("./db/db.json", "utf8")
     .then((notes) => {
